@@ -2,24 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.ubsercab.webchecktest",
+    "package_name": "com.ubercar",
     "sha256_cert_fingerprints":
-    ["4A:59:2A:45:6C:BC:9E:B0:AF:D4:9F:F5:B6:14:9D:4E:05:4A:CA:69:81:18:C1:BB:8E:21:54:2F:92:FB:3E:36"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://suyog-google.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.ubsercab.webchecktest",
-    "sha256_cert_fingerprints":
-    ["4A:59:2A:45:6C:BC:9E:B0:AF:D4:9F:F5:B6:14:9D:4E:05:4A:CA:69:81:18:C1:BB:8E:21:54:2F:92:FB:3E:36"]
+    ["15:38:17:80:F4:74:DE:37:51:41:DF:DE:A8:07:B3:1A:D1:3C:81:25:C5:3A:EE:51:F3:EB:C6:51:DF:1E:CA:2B"]
   }
 }]
